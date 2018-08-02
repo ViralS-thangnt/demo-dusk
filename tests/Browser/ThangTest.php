@@ -13,7 +13,7 @@ use Excel;
 
 class ThangTest extends DuskTestCase
 {
-    use DatabaseMigrations, RefreshDatabase;
+    // use DatabaseMigrations, RefreshDatabase;
 
     /**
      * A Dusk test example.
